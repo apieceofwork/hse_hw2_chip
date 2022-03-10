@@ -4,7 +4,8 @@
 
 ## Пункты из домашнего задания:
 
-**1) Cкриншоты FastQC
+**1) Cкриншоты FastQC**
+
 
 1 реплика (ENCFF014VCS)
 
@@ -17,6 +18,20 @@
 <img width="841" alt="Screenshot 2022-03-10 at 23 18 36" src="https://user-images.githubusercontent.com/57996343/157747648-3760355b-e1b8-4e75-a842-bfa295900722.png">
 
 <img width="841" alt="Screenshot 2022-03-10 at 23 19 00" src="https://user-images.githubusercontent.com/57996343/157748063-388bfb34-6fbb-48c2-9123-0282f883b0fd.png">
+
+
+2 реплика (ENCFF167WJE)
+
+<img width="841" alt="Screenshot 2022-03-10 at 23 23 39" src="https://user-images.githubusercontent.com/57996343/157748371-e12ea46f-8470-493c-8213-5c71778e225a.png">
+
+<img width="841" alt="Screenshot 2022-03-10 at 23 24 10" src="https://user-images.githubusercontent.com/57996343/157748446-26e5b85d-c689-4fbd-9ba5-b1d78fd9e91f.png">
+
+<img width="841" alt="Screenshot 2022-03-10 at 23 24 36" src="https://user-images.githubusercontent.com/57996343/157748507-5be93c20-1f5a-441b-b76b-f3f56624730a.png">
+
+<img width="841" alt="Screenshot 2022-03-10 at 23 25 36" src="https://user-images.githubusercontent.com/57996343/157748651-0ab2467b-bdb4-4c48-ab22-1a2a034574d4.png">
+
+<img width="841" alt="Screenshot 2022-03-10 at 23 19 00" src="https://user-images.githubusercontent.com/57996343/157748840-a0eee1d1-76fe-45da-bee4-a12a2fc72d30.png">
+
 
 
 
