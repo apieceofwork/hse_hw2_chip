@@ -40,12 +40,20 @@
 
 **контроль (ENCFF036ZKA - один из датасетов указанного в таблице контроля)**
 
+<img width="841" alt="Screenshot 2022-03-10 at 23 36 38" src="https://user-images.githubusercontent.com/57996343/157750124-323e8504-bf8b-447a-adcb-2aa5870004bf.png">
 
+<img width="841" alt="Screenshot 2022-03-10 at 23 37 00" src="https://user-images.githubusercontent.com/57996343/157750180-88b35118-c67b-4bb0-a495-984bc3e9637d.png">
 
+<img width="841" alt="Screenshot 2022-03-10 at 23 37 23" src="https://user-images.githubusercontent.com/57996343/157750238-01609657-8b7d-403b-ab93-4609041e60b0.png">
+
+<img width="841" alt="Screenshot 2022-03-10 at 23 37 45" src="https://user-images.githubusercontent.com/57996343/157750300-50f0ae61-37e5-4c91-ad73-649eac971c22.png">
+
+<img width="841" alt="Screenshot 2022-03-10 at 23 38 01" src="https://user-images.githubusercontent.com/57996343/157750332-1de0f691-8b45-4a9a-a8ff-c78d9b7e5847.png">
+
+<img width="841" alt="Screenshot 2022-03-10 at 23 38 22" src="https://user-images.githubusercontent.com/57996343/157750380-114d78f6-957c-46ec-9935-0a89af9d3ad3.png">
 
 
 **Таблица со статистикой по каждому из 3 образцов:**
-
 
 
 ![telegram-cloud-photo-size-2-5283255270019021849-y](https://user-images.githubusercontent.com/57996343/157746051-62ce1843-8586-4fd7-ae0d-3b077a6de7cf.jpg)
