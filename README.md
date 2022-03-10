@@ -1,5 +1,7 @@
 ## Домашнее задание № 2
 
+Весь код можно найти по [cсылке](https://colab.research.google.com/drive/1ksAqaKGO3IuZ7adFofb7k5NdDxzeZnza?usp=sharing)
+
 #Пункты из домашнего задания:**
 
 
