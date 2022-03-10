@@ -4,10 +4,12 @@
 
 ## Пункты из домашнего задания:
 
-**1) Cкриншоты FastQC**
+### 1) Cкриншоты FastQC**
+
+У меня было несколько датасетов контроля -> Не делалось ни обрезание, ни фильтрация для файлов.
 
 
-1 реплика (ENCFF014VCS)
+**1 реплика (ENCFF014VCS)**
 
 <img width="841" alt="Screenshot 2022-03-10 at 23 16 51" src="https://user-images.githubusercontent.com/57996343/157747403-ad017c51-deed-4fc9-9e72-5590b5240da0.png">
 
@@ -19,8 +21,10 @@
 
 <img width="841" alt="Screenshot 2022-03-10 at 23 19 00" src="https://user-images.githubusercontent.com/57996343/157748063-388bfb34-6fbb-48c2-9123-0282f883b0fd.png">
 
+<img width="879" alt="Screenshot 2022-03-10 at 23 34 00" src="https://user-images.githubusercontent.com/57996343/157749796-2697e71b-3d2d-415b-b40f-17936bc3a4a1.png">
 
-2 реплика (ENCFF167WJE)
+
+**2 реплика (ENCFF167WJE)**
 
 <img width="841" alt="Screenshot 2022-03-10 at 23 23 39" src="https://user-images.githubusercontent.com/57996343/157748371-e12ea46f-8470-493c-8213-5c71778e225a.png">
 
@@ -32,7 +36,9 @@
 
 <img width="841" alt="Screenshot 2022-03-10 at 23 19 00" src="https://user-images.githubusercontent.com/57996343/157748840-a0eee1d1-76fe-45da-bee4-a12a2fc72d30.png">
 
+<img width="855" alt="Screenshot 2022-03-10 at 23 33 18" src="https://user-images.githubusercontent.com/57996343/157749718-18b160a0-567e-4eff-b594-fd8ca1ce23d7.png">
 
+**контроль (ENCFF036ZKA - один из датасетов указанного в таблице контроля)
 
 
 
